@@ -1,8 +1,8 @@
 package service;
 
-import com.thoughtworks.todo_v1.ToDoNote;
-import com.thoughtworks.todo_v1.TodoRepository;
-import com.thoughtworks.todo_v1.TodoService;
+import com.thoughtworks.todo_v1.model.ToDoNote;
+import com.thoughtworks.todo_v1.repository.TodoRepository;
+import com.thoughtworks.todo_v1.service.TodoService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
